@@ -1,0 +1,26 @@
+* { height: 100%; }
+
+.flex-section {
+   display: flex; 
+   justify-content: center; 
+   align-items: center;
+}
+
+div.front-page-icon-container {
+    height: 50px; 
+    margin: auto;
+}
+
+img.front-page-icon {
+  display: block;
+  margin: auto;
+}
+
+h5.front-page-icon-text {
+  text-align: center;
+}
+
+div#front-page {
+  margin-right: 100px;
+  margin-left: 100px;
+}
